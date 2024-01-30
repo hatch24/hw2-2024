@@ -70,7 +70,7 @@ div.green{
 }
 footer{
     background-color: linear-gradient(#000000  25 #0000ff 70 #0066ff #000000);
-    border: 5px #ffffff;
+    border: solid 5px #ffffff;
 }
 footer p{
     font-size: 20px;
