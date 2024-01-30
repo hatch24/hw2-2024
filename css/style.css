@@ -1,5 +1,5 @@
 body{
-    margin: 20px, 20px, 20px, 0px;
+    margin: 20px, 20px, 0px, 20px;
     font-family: Arial, Verdana;
     color: #ffffff;
     background-color: #000000;
@@ -7,8 +7,7 @@ body{
 h1{
     text-align: center;
     font-size: 42px;
-    padding-left: 10px;
-    padding-top: 10px;
+    padding: 15px;
 }
 h2{
     font-size: 30px;
@@ -16,8 +15,7 @@ h2{
 }
 p{
     font-size: 24px;
-    padding-top: 10px;
-    padding-left: 10px;
+    padding: 10px 0px 0px 10px;
 }
 img{
     width: 250px;
@@ -30,25 +28,22 @@ img{
 }
 div{
     min-height: 125px;
+    border: solid #ffffff;
     padding: 20px;
-    border-color: #ffffff;
     border-width: 3px;
 }
 div.introduction{
-    border: solid #ffffff;
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2;
 }
 div.red{
-    border: solid #ffffff;
     border-width: 0px 0px 2px 5px;
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
 }
 div.blue{
-    border: solid #ffffff;
     border-width: 2px 5px 0px 0px;
     color: #C4C4C4;
     background-color: #0000ff;
@@ -59,7 +54,6 @@ div.blue h2{
     color: #C4C4C4;
 }
 div.yellow{
-    border: solid #ffffff;
     border-width: 0px 0px 2px 5px;
     color: #707070;
     background-color: #ffff00;
@@ -67,7 +61,6 @@ div.yellow{
     margin-left: 50px;
 }
 div.green{
-    border: solid #ffffff;
     border-width: 2px 5px 0px 0px;
     background-color: #008500;
     text-align: left;
