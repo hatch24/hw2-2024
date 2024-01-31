@@ -69,7 +69,7 @@ div.green{
     margin-right: 50px;
 }
 footer{
-    background-color: linear-gradient(#000000  25 #0000ff 70 #0066ff #000000);
+    background-image: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
     border: solid 5px #ffffff;
 }
 footer p{
